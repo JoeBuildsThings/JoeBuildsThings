@@ -1,5 +1,7 @@
 # Hi, I'm Joe
 
+ADEBIYI JOSEPH AYOMIDE
+
 Full Stack Developer & AI Engineer building web applications and AI powered tools focused on solving practical problems.
 
 Currently exploring the intersection of full stack development, artificial intelligence, and developer tooling.
