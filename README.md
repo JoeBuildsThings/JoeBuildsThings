@@ -1,5 +1,3 @@
-# Hi, I'm Joe
-
 ADEBIYI JOSEPH AYOMIDE
 
 Self taught developer building real tools, not tutorials. Currently a Library and Information Science student, learning to code and ship at the same time.
