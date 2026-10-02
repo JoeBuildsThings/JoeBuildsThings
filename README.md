@@ -48,6 +48,13 @@ A terminal AI assistant built on real tool calling, not a chat wrapper.
 
 Status: in active development.
 
+### [GameDeck](https://github.com/JoeBuildsThings/gamedeck): Android performance overlay
+
+A rootless in game performance overlay and optimizer for Android 10 to 14. A floating HUD shows live FPS, frame times, CPU load, RAM and battery thermals, with reversible gaming profiles and a one tap restore.
+
+* Uses Shizuku for privileged actions without root, and hard blocks system packages from ever being touched.
+* Built with Kotlin and Jetpack Compose, with Room and DataStore for profiles and activity logs.
+
 ### [CGPA Calculator](https://github.com/JoeBuildsThings/cgpa-calculator): GPA tool for UNIOSUN students
 
 Built for UNIOSUN's 5.0 grading scale, not the generic 4.0 most templates assume. Tracks multiple semesters with a running CGPA and saves locally so nothing resets on reload.
