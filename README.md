@@ -85,6 +85,6 @@ Remote roles, freelance projects and collaborations on web applications, AI powe
 
 <div align="center">
 
-Building. Learning. Shipping.
+Building. Learning.
 
 </div>
