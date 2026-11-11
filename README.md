@@ -1,40 +1,47 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="Adebiyi Joseph Ayomide, software developer building AI agents, developer tools and web applications" width="100%"/>
+<img src="assets/banner.svg" alt="Adebiyi Joseph Ayomide, software engineer for hire building AI agents, web applications and backend systems" width="100%"/>
+
+<p>
+  <a href="mailto:adebiyijosephayomide@gmail.com">Email</a> |
+  <a href="https://joebuildsthings.vercel.app">Portfolio</a> |
+  <a href="https://x.com/Adebiyijoseph_">X</a> |
+  <a href="https://www.instagram.com/adebiyijosephayomide">Instagram</a> |
+  <a href="https://www.facebook.com/adebiyi.joseph.ayomide">Facebook</a>
+</p>
 
 </div>
 
-# Adebiyi Joseph Ayomide
+```text
+joe@build:~$ whoami
+Adebiyi Joseph Ayomide, software engineer
 
-**Software developer building AI agents, developer tools and web applications.** Also known as [JoeBuildsThings](https://github.com/JoeBuildsThings).
+joe@build:~$ cat status.txt
+status    available for hire
+engage    freelance projects, contracts, remote roles
+focus     AI agents, web applications, backend systems
+contact   adebiyijosephayomide@gmail.com
 
-I build with JavaScript and Node.js, focused on AI agents that do real work: reading code, running tasks, searching the web and asking before they change anything. I am a Library and Information Science student at UNIOSUN, and I ship software alongside my studies.
+joe@build:~$ _
+```
 
-<p>
-  <a href="https://joebuildsthings.netlify.app">
-    <img src="https://img.shields.io/badge/Portfolio-joebuildsthings.netlify.app-4D9DFF?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio of Adebiyi Joseph Ayomide"/>
-  </a>
-  <a href="mailto:adebiyijosephayomide@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Adebiyi Joseph Ayomide"/>
-  </a>
-  <a href="https://x.com/Adebiyijoseph_">
-    <img src="https://img.shields.io/badge/X-Adebiyijoseph_-000000?style=for-the-badge&logo=x&logoColor=white" alt="Adebiyi Joseph Ayomide on X"/>
-  </a>
-</p>
+## What I can build for you
 
-## Tech Stack
+* **Online stores and business sites.** Product catalog, private admin area and WhatsApp ordering. Proof: [Synsorempire](https://synsorempire.vercel.app), live for a fashion shop in Ibadan.
+* **Backend and data.** Authentication, database access rules, image delivery and automated checks on every push. Proof: the same Synsorempire build.
+* **AI agents and developer tools.** Agents that use real tools and ask before they change anything. Proof: [JOEBOT](https://github.com/JoeBuildsThings/joebot).
 
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white" alt="Astro"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</p>
+## Selected work
 
-## Featured Projects
+### [Synsorempire](https://github.com/JoeBuildsThings/synsorempire): online store for a fashion shop
+
+Customers browse by category and order on WhatsApp. The owner manages every product from a private admin area.
+
+* Authentication and row level security on the database.
+* Product photos stored and resized for each screen through a CDN.
+* Type check runs on every push through GitHub Actions.
+
+[Live site](https://synsorempire.vercel.app) | [Source](https://github.com/JoeBuildsThings/synsorempire)
 
 ### [JOEBOT](https://github.com/JoeBuildsThings/joebot): terminal AI agent
 
@@ -44,7 +51,6 @@ A terminal AI assistant built on real tool calling, not a chat wrapper.
 * Asks for approval before it writes a file or runs a command, with destructive patterns blocked and file access sandboxed.
 * Routes across several AI providers and falls back automatically when one runs out of quota.
 * Keeps personal memory that you can add to and clear.
-* Built with JavaScript, Node.js and an Ink terminal interface.
 
 Status: in active development.
 
@@ -53,35 +59,60 @@ Status: in active development.
 A rootless in game performance overlay and optimizer for Android 10 to 14. A floating HUD shows live FPS, frame times, CPU load, RAM and battery thermals, with reversible gaming profiles and a one tap restore.
 
 * Uses Shizuku for privileged actions without root, and hard blocks system packages from ever being touched.
-* Built with Kotlin and Jetpack Compose, with Room and DataStore for profiles and activity logs.
 
 ### [CGPA Calculator](https://github.com/JoeBuildsThings/cgpa-calculator): GPA tool for UNIOSUN students
 
 Built for UNIOSUN's 5.0 grading scale, not the generic 4.0 most templates assume. Tracks multiple semesters with a running CGPA and saves locally so nothing resets on reload.
 
-### [Vibeo](https://github.com/JoeBuildsThings/Vibeo): social app
+### More builds
 
-A social app that combines Facebook style feeds with WhatsApp style messaging, built with JavaScript.
+* [Vibeo](https://github.com/JoeBuildsThings/Vibeo): a social app combining Facebook style feeds with WhatsApp style messaging.
+* [Mono Tracker](https://github.com/JoeBuildsThings/mono-tracker): a habit tracker app.
+* [Portfolio](https://joebuildsthings.vercel.app): my personal site, built with Astro and Tailwind CSS. [Source](https://github.com/JoeBuildsThings/joebuildsthings-portfolio).
 
-### [Portfolio website](https://joebuildsthings.netlify.app)
+## Stack
 
-My personal site, built with Astro and Tailwind CSS. [View the source code](https://github.com/JoeBuildsThings/JoeBuildsThings-Portfolio-Website).
+**Frontend**
 
-## Currently Learning
+![Next.js](https://img.shields.io/static/v1?label=&message=Next.js&color=2d333b&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/static/v1?label=&message=React&color=2d333b&logo=react&logoColor=white)
+![Astro](https://img.shields.io/static/v1?label=&message=Astro&color=2d333b&logo=astro&logoColor=white)
+![Tailwind CSS](https://img.shields.io/static/v1?label=&message=Tailwind%20CSS&color=2d333b&logo=tailwindcss&logoColor=white)
+
+**Backend and data**
+
+![Node.js](https://img.shields.io/static/v1?label=&message=Node.js&color=2d333b&logo=nodedotjs&logoColor=white)
+![Supabase](https://img.shields.io/static/v1?label=&message=Supabase&color=2d333b&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/static/v1?label=&message=PostgreSQL&color=2d333b&logo=postgresql&logoColor=white)
+![Cloudinary](https://img.shields.io/static/v1?label=&message=Cloudinary&color=2d333b&logo=cloudinary&logoColor=white)
+
+**Delivery**
+
+![Vercel](https://img.shields.io/static/v1?label=&message=Vercel&color=2d333b&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/static/v1?label=&message=Netlify&color=2d333b&logo=netlify&logoColor=white)
+![GitHub Actions](https://img.shields.io/static/v1?label=&message=GitHub%20Actions&color=2d333b&logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/static/v1?label=&message=Git&color=2d333b&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/static/v1?label=&message=GitHub&color=2d333b&logo=github&logoColor=white)
+
+**Mobile**
+
+![Android](https://img.shields.io/static/v1?label=&message=Android&color=2d333b&logo=android&logoColor=white)
+
+## Standards I build to
+
+* Security: input validated on client and server, authorization on every private route, no secrets in repos.
+* Reliability: safe error handling, useful logging and alerts when something fails.
+* Performance: compressed images, lazy loading and cached responses.
+
+## Currently learning
 
 Cybersecurity fundamentals, self paced, working toward ISC2 CC and CompTIA Security+.
 
-## Open To
+## Work with me
 
-Remote roles, freelance projects and collaborations on web applications, AI powered tools and developer focused products. Email is the fastest way to reach me.
+Email a short brief of what you need and by when. Freelance projects, contracts and remote roles are all on the table.
 
-## Connect
-
-* Email: [adebiyijosephayomide@gmail.com](mailto:adebiyijosephayomide@gmail.com)
-* X: [@Adebiyijoseph_](https://x.com/Adebiyijoseph_)
-* Portfolio: [joebuildsthings.netlify.app](https://joebuildsthings.netlify.app)
-* Facebook: [Adebiyi Joseph Ayomide](https://www.facebook.com/adebiyi.joseph.ayomide)
-* Instagram: [@adebiyijosephayomide](https://www.instagram.com/adebiyijosephayomide)
+[adebiyijosephayomide@gmail.com](mailto:adebiyijosephayomide@gmail.com)
 
 <div align="center">
 

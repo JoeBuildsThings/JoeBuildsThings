@@ -1,46 +1,20 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 260" width="900" height="260" role="img" aria-labelledby="title desc">
-  <title id="title">Adebiyi Joseph Ayomide, software developer</title>
-  <desc id="desc">Animated banner for JoeBuildsThings. Software developer building AI agents, developer tools and web applications.</desc>
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#0A1020"/>
-      <stop offset="1" stop-color="#0E2747"/>
-    </linearGradient>
-    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#2EE6E6">
-        <animate attributeName="stop-color" values="#2EE6E6;#4D9DFF;#2EE6E6" dur="6s" repeatCount="indefinite"/>
-      </stop>
-      <stop offset="1" stop-color="#4D9DFF">
-        <animate attributeName="stop-color" values="#4D9DFF;#2EE6E6;#4D9DFF" dur="6s" repeatCount="indefinite"/>
-      </stop>
-    </linearGradient>
-  </defs>
-  <rect width="900" height="260" rx="18" fill="url(#bg)"/>
-  <circle cx="770" cy="70" r="110" fill="#4D9DFF" opacity="0.10">
-    <animate attributeName="cy" values="70;100;70" dur="8s" repeatCount="indefinite"/>
-    <animate attributeName="r" values="110;125;110" dur="8s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="150" cy="230" r="90" fill="#2EE6E6" opacity="0.08">
-    <animate attributeName="cx" values="150;210;150" dur="9s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="860" cy="220" r="5" fill="#2EE6E6">
-    <animate attributeName="opacity" values="0.2;1;0.2" dur="2.4s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="60" cy="40" r="4" fill="#4D9DFF">
-    <animate attributeName="opacity" values="1;0.2;1" dur="3s" repeatCount="indefinite"/>
-  </circle>
-  <text x="56" y="92" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="22" fill="#2EE6E6">@JoeBuildsThings</text>
-  <text x="56" y="150" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="46" font-weight="700" fill="#FFFFFF">Adebiyi Joseph Ayomide</text>
-  <rect x="56" y="168" width="0" height="4" rx="2" fill="url(#accent)">
-    <animate attributeName="width" values="0;470;470;0" keyTimes="0;0.25;0.9;1" dur="8s" repeatCount="indefinite"/>
-  </rect>
-  <text x="56" y="216" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="24" fill="#CFE3FF" opacity="0">Software developer
-    <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.04;0.28;0.32;1" dur="12s" begin="0s" repeatCount="indefinite"/>
-  </text>
-  <text x="56" y="216" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="24" fill="#CFE3FF" opacity="0">Building AI agents and developer tools
-    <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.04;0.28;0.32;1" dur="12s" begin="4s" repeatCount="indefinite"/>
-  </text>
-  <text x="56" y="216" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="24" fill="#CFE3FF" opacity="0">Shipping web applications
-    <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.04;0.28;0.32;1" dur="12s" begin="8s" repeatCount="indefinite"/>
-  </text>
+  <title id="title">Adebiyi Joseph Ayomide, software engineer for hire</title>
+  <desc id="desc">Software engineer for hire building AI agents, web applications and backend systems.</desc>
+  <rect width="900" height="260" rx="14" fill="#0b0f14"/>
+  <rect width="900" height="38" rx="14" fill="#151b23"/>
+  <rect y="24" width="900" height="14" fill="#151b23"/>
+  <circle cx="24" cy="19" r="5" fill="#3a4452"/>
+  <circle cx="42" cy="19" r="5" fill="#3a4452"/>
+  <circle cx="60" cy="19" r="5" fill="#3a4452"/>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace">
+    <text x="450" y="24" text-anchor="middle" font-size="13" fill="#7d8590">joe@build: ~</text>
+    <text x="40" y="96" font-size="18" fill="#7d8590">$ whoami</text>
+    <rect x="132" y="80" width="10" height="20" fill="#3fb950">
+      <animate attributeName="opacity" values="1;0;1" dur="1.2s" repeatCount="indefinite"/>
+    </rect>
+    <text x="40" y="150" font-size="44" font-weight="700" fill="#e6edf3">Adebiyi Joseph Ayomide</text>
+    <text x="40" y="192" font-size="24" fill="#3fb950">Software engineer for hire</text>
+    <text x="40" y="228" font-size="16" fill="#7d8590">AI agents  |  Web applications  |  Backend systems</text>
+  </g>
 </svg>
