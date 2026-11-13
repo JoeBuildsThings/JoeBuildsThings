@@ -2,7 +2,7 @@
 
 # Adebiyi Joseph Ayomide
 
-**Software Engineer — Web Systems, Backend Architecture & AI Agents**
+**Software Engineer | Web Systems, Backend Architecture & AI Agents**
 
 `Nigeria` · `Open to Freelance, Contract & Remote Engineering Roles`
 
