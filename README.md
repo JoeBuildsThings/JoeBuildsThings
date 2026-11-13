@@ -24,23 +24,21 @@ contact    adebiyijosephayomide@gmail.com
 
 ## Shipped work
 
-**[Synsorempire](https://github.com/JoeBuildsThings/synsorempire)** Online store for a fashion shop. Customers browse by category and order on WhatsApp, and the owner manages products from a private admin. Auth and row level security on the database, type checks on every push. [Live site](https://synsorempire.vercel.app)
+<p align="center">
+  <a href="https://synsorempire.vercel.app"><img src="assets/card_synsorempire.svg" alt="Synsorempire, a live online store for a fashion shop with WhatsApp ordering and a private admin" width="48%"/></a>
+  <a href="https://github.com/JoeBuildsThings/joebot"><img src="assets/card_joebot.svg" alt="JOEBOT, a terminal AI agent with real tool calling that asks approval before changing anything" width="48%"/></a>
+  <a href="https://github.com/JoeBuildsThings/gamedeck"><img src="assets/card_gamedeck.svg" alt="GameDeck, a rootless Android performance overlay with live FPS, CPU, RAM and thermals" width="48%"/></a>
+  <a href="https://github.com/JoeBuildsThings/cgpa-calculator"><img src="assets/card_cgpa.svg" alt="CGPA Calculator, built for UNIOSUN's 5.0 grading scale" width="48%"/></a>
+</p>
 
-**[JOEBOT](https://github.com/JoeBuildsThings/joebot)** Terminal AI agent with real tool calling. Reads files, runs shell commands, searches the web, and asks approval before it changes anything. In active development.
-
-**[GameDeck](https://github.com/JoeBuildsThings/gamedeck)** Rootless Android performance overlay with live FPS, CPU, RAM and thermals, plus reversible gaming profiles.
-
-**[CGPA Calculator](https://github.com/JoeBuildsThings/cgpa-calculator)** Built for UNIOSUN's 5.0 grading scale. Multi semester tracking with a running CGPA.
+Cards open the project. Synsorempire opens the live store, and its [source is on GitHub](https://github.com/JoeBuildsThings/synsorempire).
 
 ## Stack
 
-```text
-frontend   Next.js, React, Astro, Tailwind CSS
-backend    Node.js, Supabase, PostgreSQL, Cloudinary
-delivery   Vercel, Netlify, GitHub Actions, Git
-mobile     Android
-```
+<p align="center">
+  <img src="assets/stack.svg" alt="Stack: Next.js, React, Astro, Tailwind CSS, Node.js, Supabase, PostgreSQL, Cloudinary, Vercel, Netlify, GitHub Actions, Git, Android" width="100%"/>
+</p>
 
 ## Work with me
 
-Email what you need and by when: [adebiyijosephayomide@gmail.com](mailto:adebiyijosephayomide@gmail.com)
+<a href="mailto:adebiyijosephayomide@gmail.com"><img src="assets/cta.svg" alt="Have a project? Email adebiyijosephayomide@gmail.com with what you need and by when." width="100%"/></a>
