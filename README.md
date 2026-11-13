@@ -22,6 +22,12 @@ learning   cybersecurity, ISC2 CC then Security+
 contact    adebiyijosephayomide@gmail.com
 ```
 
+## About
+
+Self taught software engineer building web apps, backend systems and AI agents. My strongest proof is live: an online store running for a fashion shop, with authentication, database access rules and a private admin behind it.
+
+I pay attention to the parts clients only notice when they break: who can see what, what gets validated, and what happens when something fails. I am taking freelance backend and web projects now.
+
 ## Shipped work
 
 <p align="center">
@@ -36,9 +42,20 @@ Cards open the project. Synsorempire opens the live store, and its [source is on
 ## Stack
 
 <p align="center">
-  <img src="assets/stack.svg" alt="Stack: Next.js, React, Astro, Tailwind CSS, Node.js, Supabase, PostgreSQL, Cloudinary, Vercel, Netlify, GitHub Actions, Git, Android" width="100%"/>
+  <img src="assets/stack.svg" alt="Stack: Next.js, React, Astro, Tailwind CSS, Node.js, Supabase, PostgreSQL, Cloudinary, tool calling, provider fallback, approval guards, Vercel, Netlify, GitHub Actions, Git, Android" width="100%"/>
 </p>
+
+## Right now
+
+* Expanding JOEBOT with a redesigned terminal interface, wider file access and more tool integrations.
+* Running local language models with Ollama.
 
 ## Work with me
 
 <a href="mailto:adebiyijosephayomide@gmail.com"><img src="assets/cta.svg" alt="Have a project? Email adebiyijosephayomide@gmail.com with what you need and by when." width="100%"/></a>
+
+## Activity
+
+<p align="center">
+  <img src="assets/contributions.svg" alt="GitHub contributions graph, refreshed automatically every day" width="100%"/>
+</p>
